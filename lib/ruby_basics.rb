@@ -33,8 +33,8 @@ def last_evaluated_value(phrase = "expert")
 
 end
 
-def pizza_party(option1 ="cheese", option2)
-  puts " I want to order #{option1} and #{option2}."
+def pizza_party(option1 ="cheese", x)
+  puts " I want to order #{option1} and #{x}}."
 
 end
 pizza_party("pepperoni")
