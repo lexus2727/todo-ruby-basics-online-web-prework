@@ -2,7 +2,7 @@ def division(num1, num2)
   total = num1/num2
  
 end
-division(21, 7)
+division(42, 7)
 
 
 def assign_variable(value)
