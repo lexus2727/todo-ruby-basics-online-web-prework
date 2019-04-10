@@ -6,7 +6,7 @@ division(42, 7)
 
 
 def assign_variable(value)
-  puts "#{value}"
+  new_value = value
   
 end
 assign_variable("Bob")
