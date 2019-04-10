@@ -1,6 +1,8 @@
 def division(num1, num2)
+  total = num1/num2
  
 end
+divison(21, 7)
 
 def assign_variable(value)
   
