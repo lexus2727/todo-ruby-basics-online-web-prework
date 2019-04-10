@@ -15,7 +15,7 @@ def argue(phrase)
  puts phrase 
   
 end
-argue("I'm right")
+argue("I'm right and you're wrong!")
 
 def greeting(phrase, name)
   puts "#{phrase}. My name is #{name}"
