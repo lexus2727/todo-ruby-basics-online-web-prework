@@ -37,4 +37,4 @@ def pizza_party(option1 ="cheese", option2)
   puts " I want to order #{option1} and #{option2}."
 
 end
-pizza_party("cheese","pepperoni")
+pizza_party("pepperoni")
