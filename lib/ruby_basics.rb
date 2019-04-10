@@ -16,7 +16,7 @@ def argue(phrase ="I'm right and you're wrong!")
   
 end
 
-def greeting
+def greeting()
 
 end
 
