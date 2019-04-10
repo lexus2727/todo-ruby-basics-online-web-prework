@@ -22,11 +22,13 @@ def greeting(phrase, name)
 end
 greeting("Hi there", "Candice")
 
-def return_a_value
+def return_a_value(phrase = "Nice")
+  phrase
 
 end
 
 def last_evaluated_value
+  puts "expert"
 
 end
 
