@@ -5,16 +5,17 @@ end
 division(42, 7)
 
 
-def assign_variable(value = "Bob")
-  puts "Hello I'm #{value}."
+def assign_variable
+  name = "Bob"
   
 end
 assign_variable
 
-def argue(phrase ="I'm right and you're wrong!")
+def argue(phrase)
  puts phrase 
   
 end
+argue("I'm right")
 
 def greeting(phrase, name)
   puts "#{phrase}. My name is #{name}"
