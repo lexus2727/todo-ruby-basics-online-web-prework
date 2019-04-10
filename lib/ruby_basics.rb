@@ -21,7 +21,7 @@ def greeting(phrase, name)
   puts "#{phrase}. My name is #{name}"
 
 end
-greeting("Hi there", "Candice")
+greeting("Hi there", "Bobby")
 
 def return_a_value(phrase = "Nice")
   phrase
