@@ -5,9 +5,11 @@ end
 division(42, 7)
 
 
-def assign_variable(value)
+def assign_variable(value = "Bob")
+  puts "Hello I'm #{value}."
   
 end
+assign_variable
 
 def argue
   
